@@ -1,1 +1,1 @@
-rootProject.name = "intellij-civic-xcode-theme"
+rootProject.name = "civic-xcode-theme-jetbrains"
