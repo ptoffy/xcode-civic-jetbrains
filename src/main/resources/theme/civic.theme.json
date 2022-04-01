@@ -1,0 +1,46 @@
+{
+  "author": "Paul Toffoloni",
+  "name": "Xcode Civic",
+  "dark": true,
+  "editorScheme": "/theme/civic.xml",
+  "colors": {
+    "PanelBackground": "#383838",
+    "TopBarBackground": "#262626",
+    "EditorBackground": "#2A2B35",
+    "EditorFileTabsBackground": "#1E1E1E",
+    "EditorFileTabsBorder": "#353435",
+    "CurrentLine": "#282938",
+    "Selection": "#35404E",
+    "FaintGrayColorUsedInHTMLTags": "#4C4C4C",
+    "PlainText": "#E1E2E7",
+    "Comments": "#45BB3E",
+    "DocumentationMarkup": "#22A055",
+    "DocumentationMarkupKeywords": "#32CF72",
+    "Strings": "#D3232E",
+    "Characters": "#7E7EAF",
+    "Numbers": "#149C92",
+    "Keywords": "#D7008F",
+    "PreprocessorStatements": "#C77A4B",
+    "URLs": "#5E4DE0",
+    "Attributes": "#5124E3",
+    "TypeDeclarations": "#5DD8FF",
+    "OtherDeclarations": "#41A1C0",
+    "ProjectClassNames": "#1DA9A2",
+    "ProjectFunctionAndMethodNames": "#1DA9A2",
+    "ProjectConstants/Types/Variables": "#1DA9A2",
+    "OtherClassNames": "#25908D",
+    "OtherFunctionAndMethodNames": "#29A09F",
+    "OtherConstants/Type/Variables": "#29A09F",
+    "WarningYelloUnderline": "#F5C443",
+    "ErrorRedUnderline": "#D03227",
+    "TODO": "#A3B0BC"
+  },
+  "ui": {
+    "*": {
+      "foreground": "#e9e9e9",
+      "background": "PanelBackground"
+    },
+    "EditorTabs.hoverBackground": "PanelBackground",
+    "EditorTabs.underlinedTabBackground": "PanelBackground"
+  }
+}
