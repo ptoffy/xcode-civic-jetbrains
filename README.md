@@ -1,8 +1,8 @@
 # Civic Xcode Theme for JetBrains
 
 ![Build](https://github.com/ptoffy/intellij-civic-xcode-theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18907-civic-xcode-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18907-civic-xcode-theme)
 
 <!-- Plugin description -->
 This plugin is a theme inspired by Apple's Civic Theme and ported to the JetBrains IDE family.
