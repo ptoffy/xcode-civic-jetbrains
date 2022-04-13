@@ -6,6 +6,9 @@
 
 <!-- Plugin description -->
 This plugin is a theme inspired by Apple's Civic Theme and ported to the JetBrains IDE family.
+
+<img width="1792" alt="Screenshot 2022-04-01 at 22 51 52" src="https://user-images.githubusercontent.com/69189821/163188149-4772787d-4f73-4059-8b32-d2ecc2e9a5e1.png">
+
 <!-- Plugin description end -->
 
 ## Installation
